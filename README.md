@@ -122,22 +122,34 @@ VMware镜像百度网盘链接：https://pan.baidu.com/s/1pLlR4Rx
 ng2整合各种插件的项目-Code Be
 https://git.oschina.net/zt_zhong/CodeBe
 
-## 开源许可证
- MIT
+### 新浪云活动
 
- 你可以随意使用此项目，无需通知我，因为我可能很忙没空搭理你。
+新浪云平台Sina App Engine(SAE)，是由新浪公司开发和运营的开放云计算平台的核心组成部分，国内第一家公有云计算平台，可以为网站开发者，App开发者提供稳定、快捷、透明、可控的服务化的平台，并且减少开发者的开发和维护成本。
 
-## 关于我
-我是大漠穷秋，目前是Google Angular项目组在中国的开发者PM，负责Angular的推广工作，我会在各种渠道经常发布一些与Angular相关的技术文章，希望能给大家带来一点点帮助，请点这里：https://my.oschina.net/mumu/blog  。
-
-如果您的企业或者组织需要Angular方面的技术支持，请填写这份申请单：https://gdgdocs.org/forms/d/e/1FAIpQLSfKA15nS0md58fR__tAV6gSEIPsVsLksT9knOgObq9IbVPuQg/viewform
-
-【注意】我每天都会收到大量的求助消息，真的有点忙，所以请准确描述您的问题，最好能加上一些截图，非常感谢！
+「新浪云福利」1000云豆免费领！低成本、免运维、灵活、安全稳定，轻松应对业务爆发式增长，一起来用吧！ 注册地址：http://t.cn/R5oFIaD
 
 
-## 在线交流QQ群
+### 最新技术福利
 
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8db5ed802cbddbf6432d7ba7dc4f2a316be020442491eb41cbfb1a12434e8cc7" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular 1区:286047042（满）</a>
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbfcd79e7e90939b0e2c519f475fac4792985ce2abc5ad45ec5e06ffcfe944dd" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular 2区:139357161（将满）</a>
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=639229c8b6ad0c3a9a8f381dddf5d7785780b20d8c37eb25c91ac73ea7d37a5f" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular 3区:473129930（满）</a>
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=12add102af3f67910bdc0de753dee10ebada08ab485af7e38f4dfa0ee27476f7" class="list-group-item"><i class="fa fa-qq" aria-hidden="true"></i> Angular 4区:483016484（空）</a>
+免费视频教程百度云盘链接：
+
+React Native入门  链接: https://pan.baidu.com/s/1qYtryC8
+
+ionic入门  链接: https://pan.baidu.com/s/1i5mKcnF
+
+微信小程序入门  链接: https://pan.baidu.com/s/1o8FGjDw
+
+为了保证连接的可使用性，请关注微信公众号 <font color=red>`全栈弄潮儿`</font>，
+
+React Native入门视频 回复“RN提取码”领取 提取码
+
+ionic入门视频 回复“ionic提取码”领取 提取码
+
+微信小程序入门视频 回复“小程序提取码”领取 提取码
+
+
+#### 欢迎关注我的微信公众号 <font color=red face="黑体">`全栈弄潮儿`</font> ，获取更多学习资源
+
+* 扫一扫下面的二维码或者搜索"全栈弄潮儿"
+
+<img src="https://github.com/Alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
